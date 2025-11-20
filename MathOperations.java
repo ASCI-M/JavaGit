@@ -5,7 +5,7 @@
  * @author (your name)
  * @version (a version number or a date)
  */
-public class Week3_Instance_W
+public class MathOperations
 {  
     public static void main (String[] args){
          int a=10;

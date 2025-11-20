@@ -6,7 +6,7 @@
  * @version (a version number or a date)
  */
 import java.util.Scanner;
-public class W3_WQ2
+public class Grade_Evaluator
 {   public static void main ( String[] args){
     Scanner in =new Scanner(System.in);
     System.out.println("Input numeric grade :");
